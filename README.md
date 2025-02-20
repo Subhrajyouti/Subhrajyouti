@@ -1,66 +1,93 @@
-# Hi there! 👋 I'm Subhrajyoti Mahanta  
+### Hi there! I'm Subhrajyouti Mahanta 
 
-🚀 **Data Analyst | Python | SQL | Power BI | Tableau | Data Science Enthusiast**
+🚀 **Aspiring Data Analyst | SQL | Power BI | Python | Data Visualization**
 
-Welcome to my GitHub! I'm a data-driven professional with expertise in Python, SQL, Power BI, Tableau, and Excel. Passionate about solving complex business problems through data analytics, visualization, and machine learning. My work spans finance, market expansion, and travel analytics, leveraging insights to drive decision-making.
+Welcome to my GitHub! I'm passionate about transforming raw data into actionable insights through data analytics, visualization, and business intelligence. With a background in data analysis and experience working with large datasets, I thrive on solving complex data challenges.
 
+---
 
+## 📫 Connect with Me
 
-## 🔥 Featured Projects
+| 📩 Email | 💼 LinkedIn | 🏗 GitHub |
+|----------|------------|-----------|
+| [subhrajyoutimahanta@gmail.com](mailto:subhrajyoutimahanta@gmail.com) | [LinkedIn](https://linkedin.com/in/subhrajyotimahanta) | [GitHub](https://github.com/Subhrajyouti) |
 
-### 📊 **SQL-Based Market Expansion Analysis – Monday Coffee Project**
-- **Goal:** Identify optimal Indian cities for expansion based on sales and customer demand.
-- **Tech Stack:** SQL, PostgreSQL, MySQL
-- **Project Highlights:** Cleaned and analyzed 100K+ records, pinpointed top cities (Pune, Delhi, Jaipur) for expansion, improving decision-making efficiency by 30%.
-- [View Project](#)
+---
 
-### 🚖 **Power BI Project for Cab Service Performance Analysis**
-- **Goal:** Analyze ride performance and customer satisfaction.
-- **Tech Stack:** Power BI, SQL
-- **Project Highlights:** Built 15+ dashboards, generated 50+ ad hoc reports, improved operational efficiency by 12%.
-- [View Project](#)
+## 🏆 Projects
 
-### 🎇 **Python-Based Diwali Sales Data Analysis**
-- **Goal:** Improve customer experience and boost sales during Diwali.
-- **Tech Stack:** Python (Pandas, Matplotlib, Seaborn)
-- **Project Highlights:** Analyzed 10K+ sales records, identified key customer demographics, enabled targeted marketing that increased sales by 15%.
-- [View Project](#)
+### 🚖 GoodCabs Performance Analysis *(SQL & Power BI)*
+📌 **Tech Stack:** Power BI, PostgreSQL, SQL, Data Visualization  
+📌 **Overview:** Analyzed 500,000+ trip records, built a Power BI dashboard, and optimized revenue tracking.  
+📌 **Insights:** Identified that repeat passengers contribute **40%+ more revenue** per trip.  
+📌 **GitHub Repo:** [GoodCabs Analysis](#)
 
-### 🚗 **LIDAR and Image Processing for Traffic Analysis**
-- **Goal:** Process LIDAR data to analyze real-world traffic patterns.
-- **Tech Stack:** Python, NumPy, Pandas, Tableau
-- **Project Highlights:** Processed 100GB+ data, developed 12 Tableau visualizations, improved vehicle velocity accuracy by 90%.
-- [View Project](#)
+📊 **Diagram:**
+```mermaid
+graph TD;
+  A[Raw Trip Data] -->|SQL Queries| B[Database]
+  B -->|Power BI Reports| C[Data Visualization]
+  C -->|Revenue Insights| D[Business Decisions]
+```
 
+---
 
+### 📊 Data Analyst Job Market Insights *(Python & Excel)*
+📌 **Tech Stack:** Python, Pandas, Seaborn, Matplotlib, Jupyter Notebook, Excel  
+📌 **Overview:** Analyzed 10,000+ job postings to uncover salary trends and in-demand skills.  
+📌 **Insights:** SQL appeared in **50%+** of job postings, Python in **72%** of Data Scientist roles.  
+📌 **GitHub Repo:** [Job Market Research](https://github.com/Subhrajyouti/Data-Science-Job-Market-Research-with-Python)
 
-## ⚡ Skills & Tools
+📊 **Diagram:**
+```mermaid
+graph LR;
+  A[Job Data Collection] -->|Python Processing| B[Data Cleaning]
+  B -->|Visualization| C[Trends & Insights]
+  C -->|Job Market Recommendations| D[Career Growth]
+```
 
-- **Programming:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- **Data Visualization:** ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-- **Databases:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-- **Machine Learning (Beginner):** ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-- **ETL & Data Wrangling:** Data Cleaning, Web Scraping, APIs
-- **Cloud & Big Data:** ![Google BigQuery](https://img.shields.io/badge/-Google%20BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+---
 
+### ☕ SQL-Based Market Expansion Analysis *(Monday Coffee Project)*
+📌 **Tech Stack:** SQL, Data Cleaning, Decision Optimization, Market Expansion Strategy  
+📌 **Overview:** Analyzed 100,000+ sales records to determine optimal city expansion strategy.  
+📌 **Insights:** Identified **Pune, Delhi, and Chennai** as best expansion locations.  
+📌 **GitHub Repo:** [Monday Coffee Expansion](https://github.com/Subhrajyouti/Monday_cofee_sales_store_expansion)
 
+📊 **Diagram:**
+```mermaid
+graph TD;
+  A[Sales Data] -->|SQL Analysis| B[Market Segmentation]
+  B -->|Profit Trends| C[Best Cities Identified]
+  C -->|Expansion Plan| D[Business Growth]
+```
 
-## 📚 Work Experience
-### **Senior Trainer | IHFC, IIT Delhi (Aug 2023 - June 2024)**
-- Conducted 50+ programming & robotics workshops, mentoring 300+ students.
-- Organized STEM-focused robotics competitions for 100+ students.
+---
 
-### **Research Internship | IIT Guwahati (June - July 2023)**
-- Researched and applied LIDAR technology for traffic analysis, improving accuracy by 20%.
+## 🔧 Skills
 
-### **Research Internship | IIESTS (July 2023 - Present)**
-- Investigated 100+ traffic samples to analyze the impact of EVs on real-world traffic.
+📌 **Languages:** SQL, Python, R  
+📌 **Databases:** PostgreSQL, SQLite, MySQL  
+📌 **Tools & Frameworks:** Power BI, Tableau, MS Excel, Pandas, NumPy, SciPy, Matplotlib  
 
+📊 **Skill Set Overview:**
+```mermaid
+pie
+  title Skill Proficiency
+  "SQL": 30
+  "Python": 25
+  "Power BI": 20
+  "Excel": 15
+  "Tableau": 10
+```
 
+---
 
-## 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/subhrajyotimahanta](https://www.linkedin.com/in/subhrajyotimahanta/)
-- **Email:** mahantasubhra243@gmail.com
+## 🎓 Certifications
+✅ SQL for Data Analytics  
+✅ Python for Data Analytics  
+✅ Excel for Data Analytics  
 
-💡 **I'm open to collaboration, networking, and exciting data projects!** Feel free to explore my repos and connect with me!
+---
 
+📌 *Open to collaboration, job opportunities, and projects in data analytics and business intelligence!* 🚀
